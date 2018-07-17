@@ -4,7 +4,7 @@
 
 
 #### 安装方法1
-    cd /usr/local/src ; git cloen git@github.com:wanggaolin/pam_python.git
+    cd /usr/local/src ; git clone git@github.com:wanggaolin/pam_python.git
     cd pam_python && make lib
  
 #### 安装方法2
